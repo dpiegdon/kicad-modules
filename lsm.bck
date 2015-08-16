@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LSM303D
-D LSM303D Ultra-compact high-performance eCompass module: 3D accelerometer and 3D magnetometer
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00057547.pdf
-$ENDCMP
-#
-#End Doc Library
