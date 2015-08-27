@@ -1,4 +1,4 @@
-(module 2JE03 (layer F.Cu) (tedit 55DE735E)
+(module 2JE03 (layer F.Cu) (tedit 55DF96BA)
   (fp_text reference REF** (at 17 2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -20,6 +20,6 @@
   (fp_line (start -1.25 -1.2) (end 21.25 -1.2) (layer F.SilkS) (width 0.1))
   (pad "" smd rect (at 0 0) (size 2.3 1.8) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 23.15 0) (size 3.2 1.8) (layers F.Cu F.Paste F.Mask))
-  (pad GND1 smd rect (at 22.7 3.7) (size 2.3 1.8) (layers F.Cu F.Paste F.Mask))
+  (pad GND smd rect (at 22.7 3.7) (size 2.3 1.8) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 0 3.7) (size 2.3 1.8) (layers F.Cu F.Paste F.Mask))
 )
