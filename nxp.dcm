@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NVT2008
+D 8 bit bidirectional voltage-level translator
+K voltage level shifter translator
+F http://www.nxp.com/documents/data_sheet/NVT2008_NVT2010.pdf
+$ENDCMP
+#
+#End Doc Library
