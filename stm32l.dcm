@@ -1,7 +1,12 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP STM32L0xxKx
-D Ultra low power 32bit MCU ARM in 32 pin package
+$CMP STM32L0xxKx-LQFP32
+D Ultra low power 32bit MCU ARM in 32 pin package LQFP32 7x7mm
+K mcu cpu
+$ENDCMP
+#
+$CMP STM32L0xxKx-QFN32
+D Ultra low power 32bit MCU ARM in 32 pin package UFQFPN32 5x5mm (QFN32)
 K mcu cpu
 $ENDCMP
 #
