@@ -1,4 +1,4 @@
-(module CCM03-3754LFT (layer F.Cu) (tedit 55FF2A31)
+(module SIM_CCM03-3754LFT (layer F.Cu) (tedit 55FF2A31)
   (fp_text reference C** (at 0 -8.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
