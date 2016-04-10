@@ -1,5 +1,5 @@
-(module fiducial_i.5mm_o1.5mm (layer F.Cu) (tedit 570A6888)
-  (fp_text reference F** (at 0 2.5) (layer F.SilkS)
+(module fiducial_i.5mm_o1.5mm (layer F.Cu) (tedit 570A6BAF)
+  (fp_text reference FID** (at 0 2.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value fiducial_i.5mm_o1.5mm (at 0 4) (layer F.Fab) hide
