@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NC7SZ57
+D TinyLogic UHS Universal Configurable Two-Input Logic Gates
+K logic gate
+F http://www.onsemi.com/pub/Collateral/NC7SZ58.pdf.pdf
+$ENDCMP
+#
+$CMP NC7SZ58
+D TinyLogic UHS Universal Configurable Two-Input Logic Gates
+K logic gate
+F http://www.onsemi.com/pub/Collateral/NC7SZ58.pdf.pdf
+$ENDCMP
+#
 #End Doc Library
