@@ -12,4 +12,10 @@ K logic gate
 F http://www.onsemi.com/pub/Collateral/NC7SZ58.pdf.pdf
 $ENDCMP
 #
+$CMP NDC7001C
+D Dual N and P Channel Enhancement Mode FET
+K Nchan Pchan FET dual
+F https://www.mouser.com/ds/2/149/NDC7001C-1011764.pdf
+$ENDCMP
+#
 #End Doc Library
