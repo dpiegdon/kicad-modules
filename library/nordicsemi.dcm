@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP E73-2G4M08S1C-52840
+D nRF52840 BLE5 Module
+K BLE5 BLE nRF52810
+$ENDCMP
+#
+#End Doc Library
