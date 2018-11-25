@@ -1,4 +1,7 @@
-(module MCML4-L (layer F.Cu) (tedit 5BF9E339)
+(module MCML4-L (layer F.Cu) (tedit 5BFA13DC)
+  (descr http://datasheet.octopart.com/MCML4L12RQR-Multicomp-datasheet-31824133.pdf)
+  (tags Switch:SW_Push_LED)
+  (attr smd)
   (fp_text reference REF** (at 0 4.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
