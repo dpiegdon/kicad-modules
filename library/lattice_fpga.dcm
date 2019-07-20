@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ICE40LP384-SG32
+D Ultra low power FPGA with 384 LUTs in 32pin QFN package
+K Low Power FPGA
+$ENDCMP
+#
+#End Doc Library
