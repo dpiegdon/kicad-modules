@@ -1,4 +1,4 @@
-(module TS-1224W_Side_Button_2x4x3.3mm_3.5mm_3.8mm_SMD_Aliexpress (layer F.Cu) (tedit 5D421D39)
+(module TS-1224W_Side_Button_2x4x3.3mm_3.5mm_3.8mm_SMD_Aliexpress (layer F.Cu) (tedit 5DFFEF3A)
   (descr https://www.aliexpress.com/item/32833273282.html)
   (tags "side push switch SMD")
   (attr smd)
@@ -34,4 +34,9 @@
   (pad "" smd rect (at -1.75 -0.95) (size 0.4 0.6) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 1.75 -0.95) (size 0.4 0.6) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -2.25 -0.75) (size 0.6 1) (layers F.Cu F.Paste F.Mask))
+  (model ${KIPRJMOD}/dpiegdon-kicad-modules/package3d/TS-1224W_Side_Button_2x4x3.3mm_3.5mm_3.8mm_SMD_Aliexpress.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
