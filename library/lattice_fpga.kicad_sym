@@ -460,6 +460,25 @@
 					)
 				)
 			)
+			(pin no_connect non_logic
+				(at 3.81 -35.56 90)
+				(length 5.08)
+				(hide yes)
+				(name "center_pad"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin power_in line
 				(at 6.35 35.56 270)
 				(length 5.08)
