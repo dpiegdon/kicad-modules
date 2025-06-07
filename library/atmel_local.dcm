@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AT24CM02
-D 2Mb (262144x8) Serial EEPROM
-K I2C Serial EEPROM Nonvolatile Memory
-F http://www.atmel.com/Images/Atmel-8828-SEEPROM-AT24CM02-Datasheet.pdf
-$ENDCMP
-#
-#End Doc Library

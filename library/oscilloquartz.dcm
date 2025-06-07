@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 8663-XS
-D Oscilloquartz 10MHz tunable OCXO
-K OCXO
-F http://www.sungwhatech.com/product/pdf/aging/8663.pdf
-$ENDCMP
-#
-#End Doc Library

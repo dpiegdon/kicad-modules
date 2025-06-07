@@ -1,7 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TPS652510
-D 4.5V to 16V input, high current, synchronous step down three DC-DC converters with integrated FET
-$ENDCMP
-#
-#End Doc Library

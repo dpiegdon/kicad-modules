@@ -1,7 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AD57x1
-D Analog Devices AD5721, AD5761, AD5721R, AD5761R 12/16bit bi/unipolar DAC without/with internal reference
-$ENDCMP
-#
-#End Doc Library
